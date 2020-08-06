@@ -11,3 +11,4 @@ bug001
 text10 updated by others
 text11 updated by others again
 test12
+text11 updated by others

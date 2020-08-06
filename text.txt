@@ -8,3 +8,4 @@ test7
 text8
 text9
 bug001
+text10 updated by others

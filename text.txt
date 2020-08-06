@@ -7,3 +7,4 @@ test6 updated by hot-fix2
 test7
 text8
 text9
+bug001
